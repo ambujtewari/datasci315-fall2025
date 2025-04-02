@@ -29,7 +29,7 @@ This is an introductory deep learning course using the Python programming langua
 - Midterm Exam (30%): In class, timed, multiple choice, closed book, no devices. Generative AI use prohibited.
 - Final Exam (40%): In class, timed, multiple choice, no devices. Books, notes, internet, generative AI use prohibited.
 
-## Note on the use Generative AI 
+## Note on the use of generative AI 
 
 As ntoed above, generative AI use is allowed for homeworks. However, it is _not_ allowed in exams. Quizzes are meant as a preparation for exams. It is in your best interest to simulate exams conditions when solving the quizzes.
 
