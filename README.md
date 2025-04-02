@@ -1,1 +1,1 @@
-# datasci315-fall2025
+# DATASCI 315, Fall 2025
