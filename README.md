@@ -47,9 +47,9 @@ Students may experience stressors that can impact both their academic experience
 
 ## Syllabus
 
-- Intro to Python
-- Intro to Numpy
-- Intro to Pytorch
+- [Intro to Python](https://docs.python.org/3/tutorial/index.html)
+- [Intro to Numpy](https://numpy.org/devdocs/user/absolute_beginners.html)
+- [Intro to Pytorch](https://pytorch.org/tutorials/beginner/basics/intro.html)
 - 1 Introduction
 - 2 Supervised learning
 - 3 Shallow neural networks
