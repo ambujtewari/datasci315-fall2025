@@ -25,9 +25,11 @@ This is an introductory deep learning course using the Python programming langua
 ## Grading
 
 - Canvas quizzes (20%): Timed, multiple choice. Will drop two lowest scores. Books, notes, internet, generative AI use permitted but discouraged.
-- Homeworks (30%): Assigned roughly every other week. Will drop one lowest score. Generative AI use allowed.
+- Homeworks (30%): One programming heavy homework per course module. Will drop the lowest score. Generative AI use allowed.
 - Midterm Exam (20%): In class, timed, multiple choice, closed book, no devices. Generative AI use prohibited.
 - Final Exam (30%): In class, timed, multiple choice, no devices. Books, notes, internet, generative AI use prohibited.
+
+_No credit on late submissions unless there is a documented emergency._
 
 ## Note on the use of generative AI 
 
