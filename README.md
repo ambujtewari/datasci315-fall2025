@@ -7,7 +7,7 @@ This is an introductory deep learning course using the Python programming langua
 - **Undergraduate Courses on Deep Learning**: Many universities now offer an introductory deep learning course, e.g., [Berkeley](https://cs182sp21.github.io/), [CMU](https://deeplearning.cs.cmu.edu/), [MIT](http://introtodeeplearning.com/), [Stanford](https://cs230.stanford.edu/)  
 - **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/XXXXX) (link TBD) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)  
 - **Days and Times**: Tuesdays and Thursdays, 11:30-1  
-- **Location**: [2260 USB]([https://maps.studentlife.umich.edu/building/weiser-hall](https://maps.studentlife.umich.edu/building/undergraduate-science-building)) (links for virtual lectures, if any, will be saved in the syllabus page on canvas)
+- **Location**: [2260 USB](https://maps.studentlife.umich.edu/building/weiser-hall) (links for virtual lectures, if any, will be saved in the syllabus page on canvas)
 
 ## Instructor Information
 
