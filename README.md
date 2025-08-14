@@ -17,8 +17,14 @@ This is an introductory deep learning course using the Python programming langua
 
 ## GSI Information
 
-**Name**: TODO  
-**Email**: [someone@umich.edu](mailto:someone@umich.edu)
+**Name**: Soham Das    
+**Email**: [sohamdas@umich.edu](mailto:sohamdas@umich.edu)
+
+**Name**: Kevin Jin    
+**Email**: [kejin@umich.edu](mailto:kejin@umich.edu)
+
+**Name**: Sahana Rayan    
+**Email**: [srayan@umich.edu](mailto:srayan@umich.edu)
 
 **Lab webpage** (also has GSI office hours info): TBD
 
