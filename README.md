@@ -5,9 +5,9 @@ This is an introductory deep learning course using the Python programming langua
 - **Textbook**: _Understanding Deep Learning_ by Simon J.D. Prince. Print version is available from [MIT Press](https://mitpress.mit.edu/9780262048644/understanding-deep-learning/) and an online version is [here](https://udlbook.github.io/udlbook/).
 
 - **Undergraduate Courses on Deep Learning**: Many universities now offer an introductory deep learning course, e.g., [Berkeley](https://cs182sp21.github.io/), [CMU](https://deeplearning.cs.cmu.edu/), [MIT](http://introtodeeplearning.com/), [Stanford](https://cs230.stanford.edu/)  
-- **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/XXXXX) (link TBD) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)  
+- **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/781384) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)  
 - **Days and Times**: Tuesdays and Thursdays, 11:30-1  
-- **Location**: [2260 USB](https://maps.studentlife.umich.edu/building/undergraduate-science-building) (links for virtual lectures, if any, will be saved in the syllabus page on canvas)
+- **Location**: [2260 USB](https://maps.studentlife.umich.edu/building/undergraduate-science-building)
 
 ## Instructor Information
 
@@ -39,7 +39,7 @@ _No credit on late submissions unless there is a documented emergency._
 
 ## Note on the use of generative AI 
 
-As ntoed above, generative AI use is allowed for homeworks. However, it is _not_ allowed in exams. Quizzes are meant as a preparation for exams. It is in your best interest to simulate exams conditions when solving the quizzes.
+As ntoed above, generative AI use is allowed for homeworks. However, it is _not_ allowed in exams. Quizzes are meant as a preparation for exams. It is in your best interest to simulate exam conditions when solving the quizzes.
 
 ## Academic Integrity
 
