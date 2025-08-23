@@ -6,7 +6,7 @@ This is an introductory deep learning course using the Python programming langua
 
 - **Undergraduate Courses on Deep Learning**: Many universities now offer an introductory deep learning course, e.g., [Berkeley](https://cs182sp21.github.io/), [CMU](https://deeplearning.cs.cmu.edu/), [MIT](http://introtodeeplearning.com/), [Stanford](https://cs230.stanford.edu/)  
 - **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/781384) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)
-- **Pizza***: The sign up link is [here](https://piazza.com/umich/fall2025/datasci315001fa2025)  
+- **Piazza**: The sign up link is [here](https://piazza.com/umich/fall2025/datasci315001fa2025)  
 - **Days and Times**: Tuesdays and Thursdays, 11:30-1  
 - **Location**: [2260 USB](https://maps.studentlife.umich.edu/building/undergraduate-science-building)
 
