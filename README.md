@@ -35,7 +35,7 @@ This is an introductory deep learning course using the Python programming langua
 - Midterm Exam (20%): In class, timed, multiple choice, closed book, no internet, no devices. Generative AI use prohibited.
 - Final Exam (30%): In class, timed, multiple choice, closed book, no internet, no devices. Generative AI use prohibited.
 
-_No credit on late submissions unless there is a documented emergency._
+_Late submissions not accepted unless there is a documented emergency._
 
 ## Note on the use of generative AI 
 
