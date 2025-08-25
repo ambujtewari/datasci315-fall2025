@@ -19,11 +19,11 @@ This is an introductory deep learning course using the Python programming langua
 ## GSI Information
 
 **Name**: Soham Das    
-**Email**: [sohamdas@umich.edu](mailto:sohamdas@umich.edu)
+**Email**: [sohamdas@umich.edu](mailto:sohamdas@umich.edu)  
 **Lab times**: LAB 002, Thu 2:30PM–4:00PM in 2244 USB  
 
 **Name**: Sahana Rayan    
-**Email**: [srayan@umich.edu](mailto:srayan@umich.edu)
+**Email**: [srayan@umich.edu](mailto:srayan@umich.edu)  
 **Lab times**: LAB 003, Thu 4:00PM–5:30PM in 1650 CHEM  
 
 **Name**: Kevin Jin    
