@@ -8,24 +8,27 @@ This is an introductory deep learning course using the Python programming langua
 - **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/781384) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)
 - **Piazza**: The sign up link is [here](https://piazza.com/umich/fall2025/datasci315001fa2025)  
 - **Days and Times**: Tuesdays and Thursdays, 11:30-1  
-- **Location**: [2260 USB](https://maps.studentlife.umich.edu/building/undergraduate-science-building)
+- **Location**: 2260 [USB](https://maps.studentlife.umich.edu/building/undergraduate-science-building)
 
 ## Instructor Information
 
 **Name**: Ambuj Tewari  
-**Office Hours**: TBD  
+**Office Hours**: By appointment for now, regular times TBD  
 **Email**: [tewaria@umich.edu](mailto:tewaria@umich.edu)
 
 ## GSI Information
 
 **Name**: Soham Das    
 **Email**: [sohamdas@umich.edu](mailto:sohamdas@umich.edu)
-
-**Name**: Kevin Jin    
-**Email**: [kejin@umich.edu](mailto:kejin@umich.edu)
+**Lab times**: LAB 002, Thu 2:30PM–4:00PM in 2244 USB  
 
 **Name**: Sahana Rayan    
 **Email**: [srayan@umich.edu](mailto:srayan@umich.edu)
+**Lab times**: LAB 003, Thu 4:00PM–5:30PM in 1650 CHEM  
+
+**Name**: Kevin Jin    
+**Email**: [kejin@umich.edu](mailto:kejin@umich.edu)  
+**Lab times**: LAB 004, Thu 5:30PM–7:00PM in B760 EH
 
 **Lab webpage** (also has GSI office hours info): TBD
 
