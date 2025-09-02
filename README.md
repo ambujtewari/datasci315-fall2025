@@ -30,7 +30,7 @@ This is an introductory deep learning course using the Python programming langua
 **Email**: [kejin@umich.edu](mailto:kejin@umich.edu)  
 **Lab times**: LAB 004, Thu 5:30PM–7:00PM in B760 EH
 
-**Lab webpage** (also has GSI office hours info): TBD
+**Lab webpage** (also has GSI office hours info): [link](https://docs.google.com/document/d/1nRT8b820wHMXlVKN9pX3Jv4utaEtdWXY9G0ir3WFj_Y/edit?usp=sharing)
 
 ## Grading
 
