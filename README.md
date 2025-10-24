@@ -59,19 +59,13 @@ Students may experience stressors that can impact both their academic experience
 
 ## Syllabus
 
-### Preparation for deep learning
-- [Intro to Python](https://docs.python.org/3/tutorial/index.html)
-- [Intro to Numpy](https://numpy.org/devdocs/user/absolute_beginners.html)
-- [Intro to Pytorch](https://pytorch.org/tutorials/beginner/basics/intro.html)
+### Deep learning basics
 - 1 Introduction
 - 2 Supervised learning
 - 3 Shallow neural networks
-
-### Deep learning basics
 - 4 Deep neural networks
 - 5 Loss functions
 - 6 Fitting models
-- 7 Gradients and initialization
 - 8 Measuring performance
 - 9 Regularization
 
