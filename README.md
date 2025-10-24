@@ -59,7 +59,6 @@ Students may experience stressors that can impact both their academic experience
 
 ## Syllabus
 
-### Deep learning basics
 - 1 Introduction
 - 2 Supervised learning
 - 3 Shallow neural networks
@@ -68,16 +67,8 @@ Students may experience stressors that can impact both their academic experience
 - 6 Fitting models
 - 8 Measuring performance
 - 9 Regularization
-
-### Common architectures
 - 10 Convolutional networks
-- 11 Residual networks
 - 12 Transformers
-- 13 Graph neural networks
-
-### Generative deep learning
 - 14 Unsupervised learning
 - 15 Generative adversarial networks
-- 16 Normalizing flows
-- 17 Variational autoencoders
-- 18 Diffusion models
+  
