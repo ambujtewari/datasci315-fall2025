@@ -43,7 +43,7 @@ _Late submissions not accepted unless there is a documented emergency._
 
 ## Note on the use of generative AI 
 
-As ntoed above, generative AI use is allowed for homeworks. However, it is _not_ allowed in exams. Quizzes are meant as a preparation for exams. It is in your best interest to simulate exam conditions when solving the quizzes.
+As noted above, generative AI use is allowed for homeworks. However, it is _not_ allowed in exams. Quizzes are meant as a preparation for exams. It is in your best interest to simulate exam conditions when solving the quizzes.
 
 ## Academic Integrity
 
