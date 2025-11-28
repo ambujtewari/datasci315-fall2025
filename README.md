@@ -69,6 +69,5 @@ Students may experience stressors that can impact both their academic experience
 - 9 Regularization
 - 10 Convolutional networks
 - 12 Transformers
-- 14 Unsupervised learning
 - 15 Generative adversarial networks
   
